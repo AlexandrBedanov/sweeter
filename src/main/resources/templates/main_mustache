@@ -1,0 +1,14 @@
+<html>
+
+<body>
+<div>(Список сообщений)</div>
+{{#messages}}
+<div>
+<b>
+  <b>{{name}}</b>
+{{#messages}}
+
+
+
+</body>
+</html>
